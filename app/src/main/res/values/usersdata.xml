@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="first_name">
+        <item>Лев</item>
+        <item>Илья</item>
+        <item>Дима</item>
+    </string-array>
+
+    <string-array name="last_name">
+        <item>Копотев</item>
+        <item>Серов</item>
+        <item>Матлин</item>
+    </string-array>
+
+    <string-array name="patronymic">
+        <item>Алексеевич</item>
+        <item>Алексеевич</item>
+        <item>Алексеевич</item>
+    </string-array>
+
+    <string-array name="photoUrl">
+        <item>R.drawable.lev</item>
+        <item>R.drawable.ilya</item>
+        <item>R.drawable.dima</item>
+    </string-array>
+
+    <string-array name="email">
+        <item>lev@mail.ru</item>
+        <item>ilya@mail.ru</item>
+        <item>dima@mail.ru</item>
+    </string-array>
+
+    <string-array name="phoneNumber">
+        <item>+7565656556</item>
+        <item>+7898988989</item>
+        <item>+7232323232</item>
+    </string-array>
+
+
+</resources>
