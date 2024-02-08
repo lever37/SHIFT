@@ -15,4 +15,4 @@
 
 Копотев Лев  
 @lever37  
-![Telegram](Telegram.jpeg)
+![image](https://github.com/lever37/SHIFT/assets/139788500/b561f4fe-74ef-4566-810c-0bd337b30108)
